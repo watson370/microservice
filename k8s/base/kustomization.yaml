@@ -1,0 +1,5 @@
+commonLabels:
+  app: microservice
+resources:
+  - deployment.yaml
+  - svc.yaml
